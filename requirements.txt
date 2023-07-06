@@ -1,0 +1,8 @@
+flask
+random
+os
+datetime
+matplotlib
+werkzeug.datastructures
+transformers
+langchain
