@@ -120,7 +120,6 @@ jupyterlab-widgets
 keras
 kiwisolver
 langchain
-langchainplus-sdk
 langcodes
 Levenshtein
 libclang
