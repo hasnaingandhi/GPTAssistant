@@ -204,8 +204,6 @@ python-pptx
 pytz
 pytz-deprecation-shim
 pyvis
-pywin32
-pywinpty
 PyYAML
 pyzmq
 qtconsole
