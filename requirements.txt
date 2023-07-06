@@ -251,7 +251,6 @@ terminado
 textract
 thinc
 threadpoolctl
-tiktoken
 tinycss2
 tokenizers
 tomli
