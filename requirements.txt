@@ -216,7 +216,6 @@ requests
 requests-oauthlib
 rfc3339-validator
 rfc3986-validator
-rpy2
 rsa
 safetensors
 scikit-learn
