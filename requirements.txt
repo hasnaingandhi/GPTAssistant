@@ -223,7 +223,6 @@ scipy
 selenium
 Send2Trash
 sequential
-sgd
 six
 sklearn
 smart-open
